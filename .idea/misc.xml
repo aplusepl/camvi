@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/drawable/custom_button.xml" value="0.18" />
+        <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/drawable/round_edittext.xml" value="0.18" />
+        <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/drawable/round_rec.xml" value="0.18" />
+        <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/drawable/round_square.xml" value="0.18" />
+        <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/drawable/search_box.xml" value="0.18" />
+        <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/layout/activity_login.xml" value="0.2484375" />
         <entry key="..\:/CookAndroid/Project/camvi/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
         <entry key="..\:/work/camvi/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
       </map>
