@@ -21,8 +21,5 @@
     <color name="pink_pastel">#D5A6BD</color>
 
     <color name="camvi_color">#1F0068</color>
-    <color name="camvi_color_op70">#B31F0068</color>
-    <color name="camvi_color_op50">#801F0068</color>
-    <color name="camvi_color_op30">#4D1F0068</color>
 
 </resources>
